@@ -4,4 +4,4 @@ Esto es una descripcion para M08
 |Instrucciones|Descargar                  |Modificar|
 |-------------| --------                  |---------|
 |Paso 1       |Copiar enlace              |         |
-|Paso 2       |         |         |
+|Paso 2       |Crear proyecto con enlace         |         |
