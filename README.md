@@ -5,4 +5,3 @@ Esto es una descripcion para M08
 |-------------| --------|
 |Paso 1       |         |
 |Paso 2       |         |
---------------|---------|
